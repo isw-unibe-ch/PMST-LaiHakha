@@ -1,0 +1,5 @@
+tag_id,tag_column_name,comment,language_id
+optional_plural,overabundance_tag,form does not contain a marker for plural (that is there in other forms with the same scenario),laihakha
+hort,paradigm_tag,form is a hortative (not from declarative paradigm),laihakha
+pragm_marked,variants_tag,form is sociopragmatically marked,laihakha
+unspecified,variants_tag,form is not used in special contexts,laihakha

@@ -1,0 +1,10 @@
+value_id,label,feature,unimorph,language_id
+pl,plural,number,PL,laihakha
+sg,singular,number,SG,laihakha
+1,first person,person,1,laihakha
+2,second person,person,2,laihakha
+3,third person,person,3,laihakha
+aff,affirmative,polarity,POS,laihakha
+neg,negative,polarity,NEG,laihakha
+fut,future,tense_aspect,FUT,laihakha
+nfut,non-future,tense_aspect,,laihakha

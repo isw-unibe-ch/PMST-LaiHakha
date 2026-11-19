@@ -1,0 +1,189 @@
+form_id,lexeme,cell,source_form,orth_form,analysed_orth_form,phon_form,analysed_phon_form,variants_tag,paradigm_tag,overabundance_tag,source,page,language_id
+laihakha001,no_stem,1.sg,kei,kei,kei,k ai,k ai,pragm_marked,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha002,no_stem,1.sg,keimah,keimah,kei+mah,k ai m a ʔ,k ai + m a ʔ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha003,no_stem,1.pl,kannih,kannih,kan+nih,k a n n i ʔ,k a n + n i ʔ,pragm_marked,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha004,no_stem,1.pl,kanmah,kanmah,kan+mah,k a n m a ʔ,k a n + m a ʔ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha005,no_stem,2.sg,nang,nang,nang,n a ŋ,n a ŋ,pragm_marked,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha006,no_stem,2.sg,nangmah,nangmah,nang+mah,n a ŋ m a ʔ,n a ŋ + m a ʔ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha007,no_stem,2.pl,nannih,nannih,nan+nih,n a n n i ʔ,n a n + n i ʔ,pragm_marked,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha008,no_stem,2.pl,nanmah,nanmah,nan+mah,n a n m a ʔ,n a n + m a ʔ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha009,no_stem,3.sg,anih,anih,a+nih,a n i ʔ,a + n i ʔ,pragm_marked,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha010,no_stem,3.sg,amah,amah,a+mah,a m a ʔ,a + m a ʔ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha011,no_stem,3.pl,annih,annih,an+nih,a n n i ʔ,a n + n i ʔ,pragm_marked,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha012,no_stem,3.pl,anmah,anmah,an+mah,a n m a ʔ,a n + m a ʔ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha013,kal,1.sg.fut.aff,ka kal lai,ka Σ lai,ka+Σ+lai,k a Σ l aai,k a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha014,kal,1.sg.fut.aff,kal tuah ning,Σ tuah ning,Σ+tuah+ning,Σ t u a ʔ n i ŋ,Σ + t u a ʔ + n i ŋ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha015,kal,1.pl.fut.aff,kan kal lai,kan Σ lai,ka+n+Σ+lai,k a n Σ l aai,k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha016,kal,1.pl.fut.aff,kan kal hna lai,kan Σ hna lai,ka+n+Σ+hna+lai,k a n Σ n̥ a l aai,k a + n + Σ + n̥ a + l aai,unspecified,,optional_plural,VanBik2026HakhaLai,nopage,laihakha
+laihakha017,kal,1.pl.fut.aff,kal tuah usih,Σ tuah usih,Σ+tuah+usih,Σ t u a ʔ u s i ʔ,Σ + t u a ʔ + u s i ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha018,hmuh,1.sg.2.sg.fut.aff,ka’n hmuh lai,ka’n Σ lai,ka+’n+Σ+lai,k a n Σ l aai,k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha019,zoh,1.sg.2.sg.fut.aff,in zoh tuah ning,in Σ tuah ning,in+Σ+tuah+ning,i n Σ t u a ʔ n i ŋ,i n + Σ + t u a ʔ + n i ŋ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha020,hmuh,1.sg.2.pl.fut.aff,ka’n hmuh hna lai,ka’n Σ hna lai,ka+’n+Σ+hna+lai,k a n Σ n̥ a l aai,k a + n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha021,zoh,1.sg.2.pl.fut.aff,in zoh tuah hna ning,in Σ tuah hna ning,in+Σ+tuah+hna+ning,i n Σ t u a ʔ n̥ a n i ŋ,i n + Σ + t u a ʔ + n̥ a + n i ŋ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha022,hmuh,1.pl.2.sg.fut.aff,kan in hmuh lai,kan in Σ lai,ka+n+in+Σ+lai,k a n i n Σ l aai,k a + n + i n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha023,zoh,1.pl.2.sg.fut.aff,in zoh tuah usih,in Σ tuah usih,in+Σ+tuah+usih,i n Σ t u a ʔ u s i ʔ,i n + Σ + t u a ʔ + u s i ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha024,hmuh,1.pl.2.pl.fut.aff,kan in hmuh hna lai,kan in Σ hna lai,ka+n+in+Σ+hna+lai,k a n i n Σ n̥ a l aai,k a + n + i n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha025,zoh,1.pl.2.pl.fut.aff,in zoh tuah hna usih,in Σ tuah hna usih,in+Σ+tuah+hna+usih,i n Σ t u a ʔ n̥ a u s i ʔ,i n + Σ + t u a ʔ + n̥ a + u s i ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha026,hmuh,1.sg.3.sg.fut.aff,ka hmuh lai,ka Σ lai,ka+Σ+lai,k a Σ l aai,k a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha027,zoh,1.sg.3.sg.fut.aff,zoh tuah ning,Σ tuah ning,Σ+tuah+ning,Σ t u a ʔ n i ŋ,Σ + t u a ʔ + n i ŋ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha028,hmuh,1.sg.3.pl.fut.aff,ka hmuh hna lai,ka Σ hna lai,ka+Σ+hna+lai,k a Σ n̥ a l aai,k a + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha029,zoh,1.sg.3.pl.fut.aff,zoh tuah hna ning,Σ tuah hna ning,Σ+tuah+hna+ning,Σ t u a ʔ n̥ a n i ŋ,Σ + t u a ʔ + n̥ a + n i ŋ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha030,hmuh,1.pl.3.sg.fut.aff,kan hmuh lai,kan Σ lai,ka+n+Σ+lai,k a n Σ l aai,k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha031,zoh,1.pl.3.sg.fut.aff,zoh tuah usih,Σ tuah usih,Σ+tuah+usih,Σ t u a ʔ u s i ʔ,Σ + t u a ʔ + u s i ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha032,hmuh,1.pl.3.pl.fut.aff,kan hmuh hna lai,kan Σ hna lai,ka+n+Σ+hna+lai,k a n Σ n̥ a l aai,k a + n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha033,zoh,1.pl.3.pl.fut.aff,zoh tuah hna usih,Σ tuah hna usih,Σ+tuah+hna+usih,Σ t u a ʔ n̥ a u s i ʔ,Σ + t u a ʔ + n̥ a + u s i ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha034,kal,2.sg.fut.aff,na kal lai,na Σ lai,na+Σ+lai,n a Σ l aai,n a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha035,kal,2.sg.fut.aff,kal tuah,Σ tuah,Σ+tuah,Σ t u a ʔ,Σ + t u a ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha036,kal,2.pl.fut.aff,nan kal lai,nan Σ lai,na+n+Σ+lai,n a n Σ l aai,n a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha037,kal,2.pl.fut.aff,nan kal hna lai,nan Σ hna lai,na+n+Σ+hna+lai,n a n Σ n̥ a l aai,n a + n + Σ + n̥ a + l aai,unspecified,,optional_plural,VanBik2026HakhaLai,nopage,laihakha
+laihakha038,kal,2.pl.fut.aff,kal tuah uh,Σ tuah uh,Σ+tuah+uh,Σ t u a ʔ u ʔ,Σ + t u a ʔ + u ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha039,hmuh,2.sg.1.sg.fut.aff,na ka hmuh lai,na ka Σ lai,na+ka+Σ+lai,n a k a Σ l aai,n a + k a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha040,zoh,2.sg.1.sg.fut.aff,ka zoh tuah,ka Σ tuah,ka+Σ+tuah,k a Σ t u a ʔ,k a + Σ + t u a ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha041,hmuh,2.sg.1.pl.fut.aff,na kan hmuh lai,na kan Σ lai,na+ka+n+Σ+lai,n a k a n Σ l aai,n a + k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha042,zoh,2.sg.1.pl.fut.aff,kan zoh tuah,kan Σ tuah,ka+n+Σ+tuah,k a n Σ t u a ʔ,k a + n + Σ + t u a ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha043,hmuh,2.pl.1.sg.fut.aff,nan ka hmuh lai,nan ka Σ lai,na+n+ka+Σ+lai,n a n k a Σ l aai,n a + n + k a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha044,zoh,2.pl.1.sg.fut.aff,ka zoh tuah uh,ka Σ tuah uh,ka+Σ+tuah+uh,k a Σ t u a ʔ u ʔ,k a + Σ + t u a ʔ + u ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha045,hmuh,2.pl.1.pl.fut.aff,nan kan hmuh lai,nan kan Σ lai,na+n+ka+n+Σ+lai,n a n k a n Σ l aai,n a + n + k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha046,zoh,2.pl.1.pl.fut.aff,kan zoh tuah uh,kan Σ tuah uh,ka+n+Σ+tuah+uh,k a n Σ t u a ʔ u ʔ,k a + n + Σ + t u a ʔ + u ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha047,hmuh,2.sg.3.sg.fut.aff,na hmuh lai,na Σ lai,na+Σ+lai,n a Σ l aai,n a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha048,zoh,2.sg.3.sg.fut.aff,zoh tuah,Σ tuah,Σ+tuah,Σ t u a ʔ,Σ + t u a ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha049,hmuh,2.sg.3.pl.fut.aff,na hmuh hna lai,na Σ hna lai,na+Σ+hna+lai,n a Σ n̥ a l aai,n a + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha050,zoh,2.sg.3.pl.fut.aff,zoh tuah hna,Σ tuah hna,Σ+tuah+hna,Σ t u a ʔ n̥ a,Σ + t u a ʔ + n̥ a,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha051,hmuh,2.pl.3.sg.fut.aff,nan hmuh lai,nan Σ lai,na+n+Σ+lai,n a n Σ l aai,n a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha052,zoh,2.pl.3.sg.fut.aff,zoh tuah uh,Σ tuah uh,Σ+tuah+uh,Σ t u a ʔ u ʔ,Σ + t u a ʔ + u ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha053,hmuh,2.pl.3.pl.fut.aff,nan hmuh hna lai,nan Σ hna lai,na+n+Σ+hna+lai,n a n Σ n̥ a l aai,n a + n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha054,zoh,2.pl.3.pl.fut.aff,zoh tuah hna uh,Σ tuah hna uh,Σ+tuah+hna+uh,Σ t u a ʔ n̥ a u ʔ,Σ + t u a ʔ + n̥ a + u ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha055,kal,3.sg.fut.aff,a kal lai,a Σ lai,a+Σ+lai,a Σ l aai,a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha056,kal,3.sg.fut.aff,kal tuah seh,Σ tuah seh,Σ+tuah+seh,Σ t u a ʔ s e ʔ,Σ + t u a ʔ + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha057,kal,3.pl.fut.aff,an kal lai,an Σ lai,a+n+Σ+lai,a n Σ l aai,a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha058,kal,3.pl.fut.aff,an kal hna lai,an Σ hna lai,a+n+Σ+hna+lai,a n Σ n̥ a l aai,a + n + Σ + n̥ a + l aai,unspecified,,optional_plural,VanBik2026HakhaLai,nopage,laihakha
+laihakha059,kal,3.pl.fut.aff,kal tuah hna seh,Σ tuah hna seh,Σ+tuah+hna+seh,Σ t u a ʔ n̥ a s e ʔ,Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha060,hmuh,3.sg.1.sg.fut.aff,a ka hmuh lai,a ka Σ lai,a+ka+Σ+lai,a k a Σ l aai,a + k a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha061,zoh,3.sg.1.sg.fut.aff,ka zoh tuah seh,ka Σ tuah seh,ka+Σ+tuah+seh,k a Σ t u a ʔ s e ʔ,k a + Σ + t u a ʔ + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha062,hmuh,3.sg.1.pl.fut.aff,a kan hmuh lai,a kan Σ lai,a+ka+n+Σ+lai,a k a n Σ l aai,a + k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha063,zoh,3.sg.1.pl.fut.aff,kan zoh tuah seh,kan Σ tuah seh,ka+n+Σ+tuah+seh,k a n Σ t u a ʔ s e ʔ,k a + n + Σ + t u a ʔ + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha064,hmuh,3.pl.1.sg.fut.aff,an ka hmuh lai,an ka Σ lai,a+n+ka+Σ+lai,a n k a Σ l aai,a + n + k a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha065,zoh,3.pl.1.sg.fut.aff,ka zoh tuah hna seh,ka Σ tuah hna seh,ka+Σ+tuah+hna+seh,k a Σ t u a ʔ n̥ a s e ʔ,k a + Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha066,hmuh,3.pl.1.pl.fut.aff,an kan hmuh lai,an kan Σ lai,a+n+ka+n+Σ+lai,a n k a n Σ l aai,a + n + k a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha067,zoh,3.pl.1.pl.fut.aff,kan zoh tuah hna seh,kan Σ tuah hna seh,ka+n+Σ+tuah+hna+seh,k a n Σ t u a ʔ n̥ a s e ʔ,k a + n + Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha068,hmuh,3.sg.2.sg.fut.aff,a'n hmuh lai,a'n Σ lai,a+'n+Σ+lai,a n Σ l aai,a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha069,zoh,3.sg.2.sg.fut.aff,in zoh tuah seh,in Σ tuah seh,in+Σ+tuah+seh,i n Σ t u a ʔ s e ʔ,i n + Σ + t u a ʔ + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha070,hmuh,3.sg.2.pl.fut.aff,a'n hmuh hna lai,a'n Σ hna lai,a+'n+Σ+hna+lai,a n Σ n̥ a l aai,a + n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha071,zoh,3.sg.2.pl.fut.aff,in zoh tuah hna seh,in Σ tuah hna seh,in+Σ+tuah+hna+seh,i n Σ t u a ʔ n̥ a s e ʔ,i n + Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha072,hmuh,3.pl.2.sg.fut.aff,an in hmuh lai,an in Σ lai,a+n+in+Σ+lai,a n i n Σ l aai,a + n + i n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha073,zoh,3.pl.2.sg.fut.aff,in zoh tuah hna seh,in Σ tuah hna seh,in+Σ+tuah+hna+seh,i n Σ t u a ʔ n̥ a s e ʔ,i n + Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha074,hmuh,3.pl.2.pl.fut.aff,an in hmuh hna lai,an in Σ hna lai,a+n+in+Σ+hna+lai,a n i n Σ n̥ a l aai,a + n + i n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha075,zoh,3.pl.2.pl.fut.aff,in zoh tuah hna seh,in Σ tuah hna seh,in+Σ+tuah+hna+seh,i n Σ t u a ʔ n̥ a s e ʔ,i n + Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha076,hmuh,3.sg.3.sg.fut.aff,a hmuh lai,a Σ lai,a+Σ+lai,a Σ l aai,a + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha077,zoh,3.sg.3.sg.fut.aff,zoh tuah seh,Σ tuah seh,Σ+tuah+seh,Σ t u a ʔ s e ʔ,Σ + t u a ʔ + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha078,hmuh,3.sg.3.pl.fut.aff,a hmuh hna lai,a Σ hna lai,a+Σ+hna+lai,a Σ n̥ a l aai,a + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha079,zoh,3.sg.3.pl.fut.aff,zoh tuah hna seh,Σ tuah hna seh,Σ+tuah+hna+seh,Σ t u a ʔ n̥ a s e ʔ,Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha080,hmuh,3.pl.3.sg.fut.aff,an hmuh lai,an Σ lai,a+n+Σ+lai,a n Σ l aai,a + n + Σ + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha081,zoh,3.pl.3.sg.fut.aff,zoh tuah hna seh,Σ tuah hna seh,Σ+tuah+hna+seh,Σ t u a ʔ n̥ a s e ʔ,Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha082,hmuh,3.pl.3.pl.fut.aff,an hmuh hna lai,an Σ hna lai,a+n+Σ+hna+lai,a n Σ n̥ a l aai,a + n + Σ + n̥ a + l aai,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha083,zoh,3.pl.3.pl.fut.aff,zoh tuah hna seh,Σ tuah hna seh,Σ+tuah+hna+seh,Σ t u a ʔ n̥ a s e ʔ,Σ + t u a ʔ + n̥ a + s e ʔ,unspecified,hort,,VanBik2026HakhaLai,nopage,laihakha
+laihakha084,kal,1.sg.fut.neg,ka kal lai lo,ka Σ lai lo,ka+Σ+lai+lo,k a Σ l aai l ou,k a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha085,kal,1.pl.fut.neg,kan kal lai lo,kan Σ lai lo,ka+n+Σ+lai+lo,k a n Σ l aai l ou,k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha086,kal,1.pl.fut.neg,kan kal hna lai lo,kan Σ hna lai lo,ka+n+Σ+hna+lai+lo,k a n Σ n̥ a l aai l ou,k a + n + Σ + n̥ a + l aai + l ou,unspecified,,optional_plural,VanBik2026HakhaLai,nopage,laihakha
+laihakha087,hmu,1.sg.2.sg.fut.neg,ka’n hmu lai lo,ka’n Σ lai lo,ka+’n+Σ+lai+lo,k a n Σ l aai l ou,k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha088,hmu,1.sg.2.pl.fut.neg,ka’n hmu hna lai lo,ka’n Σ hna lai lo,ka+’n+Σ+hna+lai+lo,k a n Σ n̥ a l aai l ou,k a + n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha089,hmu,1.sg.3.pl.fut.neg,ka hmu hna lai lo,ka Σ hna lai lo,ka+Σ+hna+lai+lo,k a Σ n̥ a l aai l ou,k a + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha090,hmu,1.pl.2.sg.fut.neg,kan in hmu lai lo,kan in Σ lai lo,ka+n+in+Σ+lai+lo,k a n i n Σ l aai l ou,k a + n + i n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha091,hmu,1.pl.2.pl.fut.neg,kan in hmu hna lai lo,kan in Σ hna lai lo,ka+n+in+Σ+hna+lai+lo,k a n i n Σ n̥ a l aai l ou,k a + n + i n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha092,hmu,1.sg.3.sg.fut.neg,ka hmu lai lo,ka Σ lai lo,ka+Σ+lai+lo,k a Σ l aai l ou,k a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha093,hmu,1.pl.3.sg.fut.neg,kan hmu lai lo,kan Σ lai lo,ka+n+Σ+lai+lo,k a n Σ l aai l ou,k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha094,hmu,1.pl.3.pl.fut.neg,kan hmu hna lai lo,kan Σ hna lai lo,ka+n+Σ+hna+lai+lo,k a n Σ n̥ a l aai l ou,k a + n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha095,kal,2.sg.fut.neg,na kal lai lo,na Σ lai lo,na+Σ+lai+lo,n a Σ l aai l ou,n a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha096,kal,2.pl.fut.neg,nan kal lai lo,nan Σ lai lo,na+n+Σ+lai+lo,n a n Σ l aai l ou,n a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha097,kal,2.pl.fut.neg,nan kal hna lai lo,nan Σ hna lai lo,na+n+Σ+hna+lai+lo,n a n Σ n̥ a l aai l ou,n a + n + Σ + n̥ a + l aai + l ou,unspecified,,optional_plural,VanBik2026HakhaLai,nopage,laihakha
+laihakha098,hmu,2.sg.1.sg.fut.neg,na ka hmu lai lo,na ka Σ lai lo,na+ka+Σ+lai+lo,n a k a Σ l aai l ou,n a + k a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha099,hmu,2.sg.1.pl.fut.neg,na kan hmu lai lo,na kan Σ lai lo,na+ka+n+Σ+lai+lo,n a k a n Σ l aai l ou,n a + k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha100,hmu,2.pl.1.sg.fut.neg,nan ka hmu lai lo,nan ka Σ lai lo,na+n+ka+Σ+lai+lo,n a n k a Σ l aai l ou,n a + n + k a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha101,hmu,2.pl.1.pl.fut.neg,nan kan hmu lai lo,nan kan Σ lai lo,na+n+ka+n+Σ+lai+lo,n a n k a n Σ l aai l ou,n a + n + k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha102,hmu,2.sg.3.sg.fut.neg,na hmu lai lo,na Σ lai lo,na+Σ+lai+lo,n a Σ l aai l ou,n a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha103,hmu,2.sg.3.pl.fut.neg,na hmu hna lai lo,na Σ hna lai lo,na+Σ+hna+lai+lo,n a Σ n̥ a l aai l ou,n a + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha104,hmu,2.pl.3.sg.fut.neg,nan hmu lai lo,nan Σ lai lo,na+n+Σ+lai+lo,n a n Σ l aai l ou,n a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha105,hmu,2.pl.3.pl.fut.neg,nan hmu hna lai lo,nan Σ hna lai lo,na+n+Σ+hna+lai+lo,n a n Σ n̥ a l aai l ou,n a + n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha106,kal,3.sg.fut.neg,a kal lai lo,a Σ lai lo,a+Σ+lai+lo,a Σ l aai l ou,a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha107,kal,3.pl.fut.neg,an kal lai lo,an Σ lai lo,a+n+Σ+lai+lo,a n Σ l aai l ou,a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha108,kal,3.pl.fut.neg,an kal hna lai lo,an Σ hna lai lo,a+n+Σ+hna+lai+lo,a n Σ n̥ a l aai l ou,a + n + Σ + n̥ a + l aai + l ou,unspecified,,optional_plural,VanBik2026HakhaLai,nopage,laihakha
+laihakha109,hmu,3.sg.1.sg.fut.neg,a ka hmu lai lo,a ka Σ lai lo,a+ka+Σ+lai+lo,a k a Σ l aai l ou,a + k a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha110,hmu,3.sg.1.pl.fut.neg,a kan hmu lai lo,a kan Σ lai lo,a+ka+n+Σ+lai+lo,a k a n Σ l aai l ou,a + k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha111,hmu,3.pl.1.sg.fut.neg,an ka hmu lai lo,an ka Σ lai lo,a+n+ka+Σ+lai+lo,a n k a Σ l aai l ou,a + n + k a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha112,hmu,3.pl.1.pl.fut.neg,an kan hmu lai lo,an kan Σ lai lo,a+n+ka+n+Σ+lai+lo,a n k a n Σ l aai l ou,a + n + k a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha113,hmu,3.sg.2.sg.fut.neg,a'n hmu lai lo,a'n Σ lai lo,a+'n+Σ+lai+lo,a n Σ l aai l ou,a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha114,hmu,3.sg.2.pl.fut.neg,a'n hmu hna lai lo,a'n Σ hna lai lo,a+'n+Σ+hna+lai+lo,a n Σ n̥ a l aai l ou,a + n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha115,hmu,3.pl.2.sg.fut.neg,an in hmu lai lo,an in Σ lai lo,a+n+in+Σ+lai+lo,a n i n Σ l aai l ou,a + n + i n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha116,hmu,3.pl.2.pl.fut.neg,an in hmu hna lai lo,an in Σ hna lai lo,a+n+in+Σ+hna+lai+lo,a n i n Σ n̥ a l aai l ou,a + n + i n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha117,hmu,3.sg.3.sg.fut.neg,a hmu lai lo,a Σ lai lo,a+Σ+lai+lo,a Σ l aai l ou,a + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha118,hmu,3.sg.3.pl.fut.neg,a hmu hna lai lo,a Σ hna lai lo,a+Σ+hna+lai+lo,a Σ n̥ a l aai l ou,a + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha119,hmu,3.pl.3.sg.fut.neg,an hmu lai lo,an Σ lai lo,a+n+Σ+lai+lo,a n Σ l aai l ou,a + n + Σ + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha120,hmu,3.pl.3.pl.fut.neg,an hmu hna lai lo,an Σ hna lai lo,a+n+Σ+hna+lai+lo,a n Σ n̥ a l aai l ou,a + n + Σ + n̥ a + l aai + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha121,kal,1.sg.nfut.aff,ka kal,ka Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha122,kal,1.pl.nfut.aff,kan kal,kan Σ,ka+n+Σ,k a n Σ,k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha123,hmuh,1.sg.2.sg.nfut.aff,ka'n hmuh,ka'n Σ,ka+’n+Σ,k a n Σ,k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha124,hmuh,1.sg.2.pl.nfut.aff,ka'n hmuh hna,ka'n Σ hna,ka+’n+Σ+hna,k a n Σ n̥ a,k a + n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha125,hmuh,1.pl.2.sg.nfut.aff,kan in hmuh,kan in Σ,ka+n+in+Σ,k a n i n Σ,k a + n + i n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha126,hmuh,1.pl.2.pl.nfut.aff,kan in hmuh hna,kan in Σ hna,ka+n+in+Σ+hna,k a n i n Σ n̥ a,k a + n + i n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha127,hmuh,1.sg.3.sg.nfut.aff,ka hmuh,ka Σ,ka+Σ,k a Σ,k a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha128,hmuh,1.sg.3.pl.nfut.aff,ka hmuh hna,ka Σ hna,ka+Σ+hna,k a Σ n̥ a,k a + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha129,hmuh,1.pl.3.sg.nfut.aff,kan hmuh,kan Σ,ka+n+Σ,k a n Σ,k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha130,hmuh,1.pl.3.pl.nfut.aff,kan hmuh hna,kan Σ hna,ka+n+Σ+hna,k a n Σ n̥ a,k a + n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha131,kal,2.sg.nfut.aff,na kal,na Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha132,kal,2.pl.nfut.aff,nan kal,nan Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha133,hmuh,2.sg.1.sg.nfut.aff,na ka hmuh,na ka Σ,na+ka+Σ,n a k a Σ,n a + k a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha134,hmuh,2.sg.1.pl.nfut.aff,na kan hmuh,na kan Σ,na+ka+n+Σ,n a k a n Σ,n a + k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha135,hmuh,2.pl.1.sg.nfut.aff,nan ka hmuh,nan ka Σ,na+n+ka+Σ,n a n k a Σ,n a + n + k a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha136,hmuh,2.pl.1.pl.nfut.aff,nan kan hmuh,nan kan Σ,na+n+ka+n+Σ,n a n k a n Σ,n a + n + k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha137,hmuh,2.sg.3.sg.nfut.aff,na hmuh,na Σ,na+Σ,n a Σ,n a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha138,hmuh,2.sg.3.pl.nfut.aff,na hmuh hna,na Σ hna,na+Σ+hna,n a Σ n̥ a,n a + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha139,hmuh,2.pl.3.sg.nfut.aff,nan hmuh,nan Σ,na+n+Σ,n a n Σ,n a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha140,hmuh,2.pl.3.pl.nfut.aff,nan hmuh hna,nan Σ hna,na+n+Σ+hna,n a n Σ n̥ a,n a + n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha141,kal,3.sg.nfut.aff,a kal,a Σ,a+Σ,a Σ,a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha142,kal,3.pl.nfut.aff,an kal,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha143,hmuh,3.sg.1.sg.nfut.aff,a ka hmuh,a ka Σ,a+ka+Σ,a k a Σ,a + k a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha144,hmuh,3.sg.1.pl.nfut.aff,a kan hmuh,a kan Σ,a+ka+n+Σ,a k a n Σ,a + k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha145,hmuh,3.pl.1.sg.nfut.aff,an ka hmuh,an ka Σ,a+n+ka+Σ,a n k a Σ,a + n + k a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha146,hmuh,3.pl.1.pl.nfut.aff,an kan hmuh,an kan Σ,a+n+ka+n+Σ,a n k a n Σ,a + n + k a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha147,hmuh,3.sg.2.sg.nfut.aff,a'n hmuh,a'n Σ,a+'n+Σ,a n Σ,a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha148,hmuh,3.sg.2.pl.nfut.aff,a'n hmuh hna,a'n Σ hna,a+'n+Σ+hna,a n Σ n̥ a,a + n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha149,hmuh,3.pl.2.sg.nfut.aff,an in hmuh,an in Σ,a+n+in+Σ,a n i n Σ,a + n + i n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha150,hmuh,3.pl.2.pl.nfut.aff,an in hmuh hna,an in Σ hna,a+n+in+Σ+hna,a n i n Σ n̥ a,a + n + i n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha151,hmuh,3.sg.3.sg.nfut.aff,a hmuh,a Σ,a+Σ,a Σ,a + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha152,hmuh,3.sg.3.pl.nfut.aff,a hmuh hna,a Σ hna,a+Σ+hna,a Σ n̥ a,a + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha153,hmuh,3.pl.3.sg.nfut.aff,an hmuh,an Σ,a+n+Σ,a n Σ,a + n + Σ,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha154,hmuh,3.pl.3.pl.nfut.aff,an hmuh hna,an Σ hna,a+n+Σ+hna,a n Σ n̥ a,a + n + Σ + n̥ a,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha155,kal,1.sg.nfut.neg,ka kal lo,ka Σ lo,ka+Σ+lo,k a Σ l ou,k a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha156,kal,1.pl.nfut.neg,kan kal lo,kan Σ lo,ka+n+Σ+lo,k a n Σ l ou,k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha157,hmu,1.sg.2.sg.nfut.neg,ka’n hmu lo,ka’n Σ lo,ka+’n+Σ+lo,k a n Σ l ou,k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha158,hmu,1.sg.2.pl.nfut.neg,ka'n hmu hna lo,ka'n Σ hna lo,ka+’n+Σ+hna+lo,k a n Σ n̥ a l ou,k a + n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha159,hmu,1.pl.2.sg.nfut.neg,kan in hmu lo,kan in Σ lo,ka+n+in+Σ+lo,k a n i n Σ l ou,k a + n + i n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha160,hmu,1.pl.2.pl.nfut.neg,kan in hmu hna lo,kan in Σ hna lo,ka+n+in+Σ+hna+lo,k a n i n Σ n̥ a l ou,k a + n + i n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha161,hmu,1.sg.3.sg.nfut.neg,ka hmu lo,ka Σ lo,ka+Σ+lo,k a Σ l ou,k a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha162,hmu,1.sg.3.pl.nfut.neg,ka hmu hna lo,ka Σ hna lo,ka+Σ+hna+lo,k a Σ n̥ a l ou,k a + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha163,hmu,1.pl.3.sg.nfut.neg,kan hmu lo,kan Σ lo,ka+n+Σ+lo,k a n Σ l ou,k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha164,hmu,1.pl.3.pl.nfut.neg,kan hmu hna lo,kan Σ hna lo,ka+n+Σ+hna+lo,k a n Σ n̥ a l ou,k a + n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha165,kal,2.sg.nfut.neg,na kal lo,na Σ lo,na+Σ+lo,n a Σ l ou,n a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha166,kal,2.pl.nfut.neg,nan kal lo,nan Σ lo,na+n+Σ+lo,n a n Σ l ou,n a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha167,hmu,2.sg.1.sg.nfut.neg,na ka hmu lo,na ka Σ lo,na+ka+Σ+lo,n a k a Σ l ou,n a + k a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha168,hmu,2.sg.1.pl.nfut.neg,na kan hmu lo,na kan Σ lo,na+ka+n+Σ+lo,n a k a n Σ l ou,n a + k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha169,hmu,2.pl.1.sg.nfut.neg,nan ka hmu lo,nan ka Σ lo,na+n+ka+Σ+lo,n a n k a Σ l ou,n a + n + k a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha170,hmu,2.pl.1.pl.nfut.neg,nan kan hmu lo,nan kan Σ lo,na+n+ka+n+Σ+lo,n a n k a n Σ l ou,n a + n + k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha171,hmu,2.sg.3.sg.nfut.neg,na hmu lo,na Σ lo,na+Σ+lo,n a Σ l ou,n a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha172,hmu,2.sg.3.pl.nfut.neg,na hmu hna lo,na Σ hna lo,na+Σ+hna+lo,n a Σ n̥ a l ou,n a + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha173,hmu,2.pl.3.sg.nfut.neg,nan hmu lo,nan Σ lo,na+n+Σ+lo,n a n Σ l ou,n a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha174,hmu,2.pl.3.pl.nfut.neg,nan hmu hna lo,nan Σ hna lo,na+n+Σ+hna+lo,n a n Σ n̥ a l ou,n a + n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha175,kal,3.sg.nfut.neg,a kal lo,a Σ lo,a+Σ+lo,a Σ l ou,a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha176,kal,3.pl.nfut.neg,an kal lo,an Σ lo,a+n+Σ+lo,a n Σ l ou,a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha177,hmu,3.sg.1.sg.nfut.neg,a ka hmu lo,a ka Σ lo,a+ka+Σ+lo,a k a Σ l ou,a + k a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha178,hmu,3.sg.1.pl.nfut.neg,a kan hmu lo,a kan Σ lo,a+ka+n+Σ+lo,a k a n Σ l ou,a + k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha179,hmu,3.pl.1.sg.nfut.neg,an ka hmu lo,an ka Σ lo,a+n+ka+Σ+lo,a n k a Σ l ou,a + n + k a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha180,hmu,3.pl.1.pl.nfut.neg,an kan hmu lo,an kan Σ lo,a+n+ka+n+Σ+lo,a n k a n Σ l ou,a + n + k a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha181,hmu,3.sg.2.sg.nfut.neg,a'n hmu lo,a'n Σ lo,a+'n+Σ+lo,a n Σ l ou,a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha182,hmu,3.sg.2.pl.nfut.neg,a'n hmu hna lo,a'n Σ hna lo,a+'n+Σ+hna+lo,a n Σ n̥ a l ou,a + n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha183,hmu,3.pl.2.sg.nfut.neg,an in hmu lo,an in Σ lo,a+n+in+Σ+lo,a n i n Σ l ou,a + n + i n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha184,hmu,3.pl.2.pl.nfut.neg,an in hmu hna lo,an in Σ hna lo,a+n+in+Σ+hna+lo,a n i n Σ n̥ a l ou,a + n + i n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha185,hmu,3.sg.3.sg.nfut.neg,a hmu lo,a Σ lo,a+Σ+lo,a Σ l ou,a + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha186,hmu,3.sg.3.pl.nfut.neg,a hmu hna lo,a Σ hna lo,a+Σ+hna+lo,a Σ n̥ a l ou,a + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha187,hmu,3.pl.3.sg.nfut.neg,an hmu lo,an Σ lo,a+n+Σ+lo,a n Σ l ou,a + n + Σ + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
+laihakha188,hmu,3.pl.3.pl.nfut.neg,an hmu hna lo,an Σ hna lo,a+n+Σ+hna+lo,a n Σ n̥ a l ou,a + n + Σ + n̥ a + l ou,unspecified,,,VanBik2026HakhaLai,nopage,laihakha
