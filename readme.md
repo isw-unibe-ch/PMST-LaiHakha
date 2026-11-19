@@ -15,8 +15,8 @@ For more details about the data, please consult the data_sheet.md in the docs fo
 
 ## Additional information specific to Hakha Lai
  
-* Tone: There are three tonal contrasts in Hakha Lai (cf. Hyman & VanBik 2002, Peterson 2017: 258) Tones are not marked in the current version of the data set, since the transcription is based on the community orthography which does not mark tone, with one exception in the source forms: the postconsonantal allomorph n- of the 2nd person patient marker, which bears a high tone, is written 'n in the community orthography and the data set to distinguish it from the general plural marker n-, written n. Thus, the tone of the 2nd person marker can be inferred from this orthographic convention.
-* Mapping between database paradigm labels (future and nonfuture) and Hakha Lai descriptive labels in Peterson (2017): identical labels
+* Tone: There are three tonal contrasts in Hakha Lai (cf. Hyman & VanBik 2002, Peterson 2017: 258). Tones are not marked in the current version of the data set, since the transcription is based on the community orthography which does not mark tone, with one exception in the source forms: the postconsonantal allomorph n- of the 2nd person patient marker, which bears a high tone, is written 'n in the community orthography and the data set to distinguish it from the general plural marker n-, written n. Thus, the tone of the 2nd person marker can be inferred from this orthographic convention.
+* Mapping between database paradigm labels (future and nonfuture) and Hakha Lai descriptive labels in Peterson (2017): identical labels.
 
 
 ## References
